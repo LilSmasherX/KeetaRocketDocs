@@ -1,43 +1,59 @@
-# Mintlify Starter Kit
+# 🚀 Keeta Rocket Documentation
 
-Use the starter kit to get your docs deployed and ready to customize.
+Welcome to Keeta Rocket - your comprehensive launchpad into the [Keeta](https://keeta.com/) ecosystem.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+This documentation site provides everything you need to get started with Keeta Rocket, including:
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+- 📚 Comprehensive guides and tutorials
+- 🛠️ Setup and configuration instructions
+- 💻 Code examples and implementation patterns
+- 🔗 API reference documentation
+- 🎯 Best practices and optimization tips
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+**[Get started with our quickstart guide →](quickstart)**
 
-## Development
+## 🛠️ Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+To preview and edit this documentation locally:
 
-```
+### Prerequisites
+
+- Node.js (version 18 or higher)
+- npm or yarn package manager
+
+### Local Setup
+
+Install the Mintlify CLI to preview documentation changes:
+
+```bash
 npm i -g mint
 ```
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+Run the development server from the root directory (where `docs.json` is located):
 
-```
+```bash
 mint dev
 ```
 
-View your local preview at `http://localhost:3000`.
+Your local preview will be available at `http://localhost:3000` with automatic reloading.
 
-## Publishing changes
+## 🚀 Deployment
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+This documentation is automatically deployed when changes are pushed to the main branch.
 
-## Need help?
+For manual deployment or custom setups, refer to the documentation.
 
-### Troubleshooting
+## 🆘 Need Help?
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+### Quick Troubleshooting
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+- **Dev server won't start**: Run `mint update` to get the latest CLI version
+- **404 errors**: Ensure you're running from the directory containing `docs.json`
+- **Styling issues**: Check that your `docs.json` configuration is valid
+
+### Resources & Support
+
+- 📖 [Keeta Platform Documentation](https://keeta.com/docs)
+- 💬 [Community Support](https://discord.gg/t4BwpGA9yn)  
+- 🐛 [Report Issues](https://github.com/keeta/rocket-docs/issues)
+- 📧 [Contact Support](https://discord.gg/t4BwpGA9yn)
