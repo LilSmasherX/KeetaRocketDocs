@@ -18,6 +18,12 @@
         ]
       },
       {
+        "group": "Creators",
+        "pages": [
+          "launch-token"
+        ]
+      },
+      {
         "group": "Support",
         "pages": [
           "faq"
@@ -33,7 +39,7 @@
     "links": [
       {
         "label": "Discord",
-        "href": "https://discord.gg/t4BwpGA9yn"
+        "href": "https://discord.gg/kp2cXfRBJs"
       },
       {
         "label": "Twitter",
@@ -44,7 +50,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/KeetaRocket",
-      "discord": "https://discord.gg/t4BwpGA9yn"
+      "discord": "https://discord.gg/kp2cXfRBJs"
     }
   }
 }

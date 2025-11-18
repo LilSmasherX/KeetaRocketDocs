@@ -54,6 +54,6 @@ For manual deployment or custom setups, refer to the documentation.
 ### Resources & Support
 
 - 📖 [Keeta Platform Documentation](https://keeta.com/docs)
-- 💬 [Community Support](https://discord.gg/t4BwpGA9yn)  
+- 💬 [Community Support](https://discord.gg/kp2cXfRBJs)  
 - 🐛 [Report Issues](https://github.com/keeta/rocket-docs/issues)
-- 📧 [Contact Support](https://discord.gg/t4BwpGA9yn)
+- 📧 [Contact Support](https://discord.gg/kp2cXfRBJs)
